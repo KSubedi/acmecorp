@@ -32,7 +32,9 @@ export default function Hero() {
             className="flex flex-col sm:flex-row gap-4 justify-center mb-12"
           >
             <Link
-              href="/intake"
+              href="https://docs.google.com/forms/d/1hv9XmKyfbYBowB0k9N0kUmcuW7BQfF6yjUBy5S4IdOo/edit"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-blue-600 text-white px-8 py-4 rounded-full hover:bg-blue-700 transition-colors font-medium text-lg shadow-lg hover:shadow-xl"
             >
               Get Started Now
